@@ -66,3 +66,5 @@ Enjoy working on your kata! :smile:
 [4]: https://classic.yarnpkg.com/en/
 [5]: https://nodejs.org/en/download/
 [6]: https://classic.yarnpkg.com/en/docs/install
+
+Making changes!
